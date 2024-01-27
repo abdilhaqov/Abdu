@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Diyorbek_Abdulhakov",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Diyorbek_Abdulhakov::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Diyorbek_Abdulhakov-Debug-212926d8f1ce76482db2.json",
+					"name" : "Diyorbek_Abdulhakov",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/d.abdilhaqov/CLionProjects/Diyorbek.Abdulhakov/cmake-build-debug",
+		"source" : "/Users/d.abdilhaqov/CLionProjects/Diyorbek.Abdulhakov"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

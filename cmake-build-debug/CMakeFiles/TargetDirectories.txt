@@ -1,0 +1,3 @@
+/Users/d.abdilhaqov/CLionProjects/Diyorbek.Abdulhakov/cmake-build-debug/CMakeFiles/Diyorbek_Abdulhakov.dir
+/Users/d.abdilhaqov/CLionProjects/Diyorbek.Abdulhakov/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/d.abdilhaqov/CLionProjects/Diyorbek.Abdulhakov/cmake-build-debug/CMakeFiles/rebuild_cache.dir
